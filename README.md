@@ -1,3 +1,12 @@
+Vercel Deployment link is: https://multor-landing-page.vercel.app/
+ScreenShots Links:
+1)https://github.com/gowreemanohar/multor-landing-page/assets/75294773/da9a7078-7186-4611-96c1-e152fc24c4fa
+2)https://github.com/gowreemanohar/multor-landing-page/assets/75294773/16614fe2-a230-4f9f-902a-8039d2f5e582
+3)https://github.com/gowreemanohar/multor-landing-page/assets/75294773/259eb4af-1959-4faf-bb25-975a063032ed
+4)https://github.com/gowreemanohar/multor-landing-page/assets/75294773/025b1533-bb2e-47a2-8c12-1cc7cf5c2da4
+5)https://github.com/gowreemanohar/multor-landing-page/assets/75294773/e0cfb8c8-d15e-4bb2-902b-9a217a21d70d
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
