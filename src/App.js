@@ -53,7 +53,7 @@ function App() {
     <div className="aboutsection">
       <AboutSection></AboutSection>
     </div>
-    <div className="bookNow hidden lg:block bg-secondary drop-shadow-2xl text-2xl p-6 rounded-full text-white shadow-lg fixed bottom-4 right-4 ">
+    <div className="bookNow hidden z-9 lg:block bg-secondary drop-shadow-2xl text-2xl p-6 rounded-full text-white shadow-lg fixed bottom-4 right-4 ">
       <a href="/bookAppointment" className=''>
         <AddIcCallOutlinedIcon fontSize='large' ></AddIcCallOutlinedIcon>
 

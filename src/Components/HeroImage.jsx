@@ -24,7 +24,7 @@ const HeroImage = () => {
     Describe the value of booking an appointment </h1>
 
       </div>
-    <h5 className='lg:text-xl text-sm lg:w-1/3 mt-16 lg:mx-24 hidden lg:block text-justify text-primary'
+    <h5 className='lg:text-xl text-sm lg:w-1/3 mt-16 lg:mx-24 hidden overflow:hidden lg:block xl:hidden text-justify text-primary'
     >
     No need to get clever. Tell people exactly what you're offering, then use this space to communicate your key value proposition.
     </h5>
